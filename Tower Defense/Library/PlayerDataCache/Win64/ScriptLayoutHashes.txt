@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/andre/Desktop/build/Tower Defense.exe
+C:/temp/Tower Defense.exe
 SceneListBegin?
 Assets/Scenes/MapScene.unity
 SceneListEnd?
